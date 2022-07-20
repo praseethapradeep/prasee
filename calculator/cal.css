@@ -1,0 +1,43 @@
+.box
+{
+    background-color:black;
+    width: 400px;
+    height: 600px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+#table
+{
+   
+    width: 400px;
+    height: 600px;
+    background-color: bisque;
+}
+#result
+{
+    width: 350px;
+    height: 90px;
+    margin-top: 5px;
+    margin-left: 6px;
+    font-size: 50px;
+    
+}
+.b
+{
+    background-color: rgb(186, 200, 203);
+    
+    
+}
+.c
+{
+    background-color: rgb(142, 116, 64);
+}
+.d
+{
+    background-color: rgb(151, 140, 126);
+}
+.button
+{
+    width: 50px;
+    font-size: 20px;
+}
