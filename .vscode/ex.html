@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>sample</h1>
+    <script>
+        function game(noun,adjective,verb,adverb)
+        {
+            var result="";
+            result=result+adjective+" "+noun+" "+verb+" "+adverb;
+            return result;
+        }
+
+       console.log( game("boy","tall","walk","fastly"));
+        
+       var arr=[[1,'ravi'],[2,'rahu'],[3,'venu']];
+       arr.push([4,'nim']);
+       console.log(arr);
+
+       function sum(num)
+       {
+        return num+5;
+       }
+       console.log(sum(10));
+
+       function nextInLine(arr,item)
+       {
+        arr.push(item);
+        return arr.shift();
+       }
+       var myArr=[1,2,3,4,5];
+       console.log(JSON.stringify(myArr));
+       console.log(nextInLine(myArr,6));
+       console.log(JSON.stringify(myArr));
+
+       function trueOrFalse(num)
+       {
+        if(num==1)
+        {
+            return 'true';
+        }
+        else{
+            return 'false';
+        }
+       }
+       console.log(trueOrFalse(2));
+
+    </script>
+</body>
+</html>

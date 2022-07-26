@@ -1,0 +1,84 @@
+
+.box
+{
+    width: 400px;
+    height: 600px;
+    background-color: darkgray;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 100px;
+    border: 1px solid darkslategray;
+}
+.show
+{
+    border: 1px solid darkslategray;
+    width: 395px;
+    background-color: white;
+    height: 95px;
+    font-size: 50px;
+    
+}
+.ac
+{
+   
+    border: 1px solid darkcyan ;
+    width: 190px;
+    height: 90px;
+    background-color: darkcyan;
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 40px;
+
+}
+.delete
+{
+    border: 1px solid darkolivegreen;
+    width:90px ;
+    height: 90px;
+    background-color: darkolivegreen;
+    margin-left: 5px;
+    font-size: 40px;
+
+}
+.division
+{
+    border: 1px solid black;
+    width:90px ;
+    height: 90px;
+    background-color: black;
+    margin-left: 5px;
+    border-radius: 50px;
+    color: white;
+    font-size: 50px;
+}
+
+
+.four
+{
+    border: 1px solid black;
+    border-radius: 50px;
+    width:90px ;
+    height: 90px;
+    background-color: black;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 50px;
+    color: white;
+}
+.equals
+{
+    border: 1px solid white;
+    width: 190px;
+    height: 90px;
+    background-color:white;
+    margin-left: 5px;
+    margin-top: 5px;  
+    color: black;
+    font-size: 50px;
+}
+
+
+
+
+
+
